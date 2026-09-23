@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "f017e15b3e5638f93680380e",
+  "owner": "qqeeuqvba",
+  "repo": "page-700b5b99dbe7d5035bf173fb",
+  "title": "CyberT",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "700b5b99dbe7d5035bf173fb",
+      "a": "CyberT",
+      "b": "2027最新官网",
+      "entity": "CyberT",
+      "brand": "CyberT",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "2453e7584e6ee87230f7025e98a442aaf805a4065329ec9ba5c10119e02bc673",
+      "content": {
+        "primary_entity": "CyberT",
+        "keyword1": "CyberT",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_DESCRIPTION": "，围绕设备选择、订阅配置与套餐对比展开，CyberT 提供基础版、旗舰版和团队版三档订阅，流量从每月 100GB 到 1000GB，支持 3 台到 20 台设备同时在线，用户可按设备数量与使用强度快速定位合适方案。",
+          "AI_HERO_SUBTITLE": "CyberT 多设备加速订阅",
+          "AI_HERO_INTRO": "CyberT 提供按月与按年订阅的加速服务，三档套餐覆盖不同流量与设备需求，适合个人多设备、流媒体和轻量团队场景，按客户端文档配置订阅即可使用。",
+          "AI_VISUAL_TITLE": "CyberT 订阅选择",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "旗舰版 IPLC 游戏加速优化",
+          "AI_HIGHLIGHT_3": "年付约为月付十个月价格",
+          "AI_FEATURES_TITLE": "套餐与设备要点",
+          "AI_FEATURES_INTRO": "从流量、设备数和线路类型三个维度匹配使用需求。",
+          "AI_FEATURE_TITLE_1": "流量匹配",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 适合轻度浏览，旗舰版 300GB 兼顾流媒体，团队版 1000GB 适合多人共享。",
+          "AI_FEATURE_TITLE_2": "设备数量",
+          "AI_FEATURE_TEXT_2": "基础版 3 台、旗舰版 5 台、团队版 20 台，先统计日常同时在线设备再选择档位。",
+          "AI_FEATURE_TITLE_3": "计费周期",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付更低，基础版年付 ¥150、旗舰版 ¥350、团队版 ¥850，长期使用可选年付。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLIENTS_INTRO": "根据不同设备系统选择相应客户端，并参照其文档导入订阅。",
+          "AI_PLANS_TITLE": "三档套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，旗舰版 ¥35/月，团队版 ¥85/月；年付分别 ¥150、¥350、¥850，按设备与流量需求选择。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_GUIDE_INTRO": "先选服务，再核对适配要求，最后在客户端配置订阅。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据设备数量与每月流量，在基础版、旗舰版和团队版之间确定订阅档位。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认常用设备系统在客户端支持范围内，并检查同时在线设备数是否符合套餐。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "依所选客户端的文档导入订阅信息，完成后即可在设备上启用加速。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选对套餐",
+          "AI_CLOSING_TEXT": "按设备与流量需求选定 CyberT 套餐，再参照客户端文档完成订阅配置。",
+          "AI_FAQ_ANSWER_1": "先看常连设备数量，再看每月大概消耗多少流量。基础版适合 3 台以内、月流量 100GB 左右的轻度使用；旗舰版覆盖 5 台设备与 300GB；团队版面向 20 台设备与 1000GB 的高负载场景。",
+          "AI_FAQ_ANSWER_2": "在对应客户端中新建订阅，粘贴购买后获得的订阅链接，更新节点列表即可。桌面端 Clash Verge、v2rayN，移动端 Shadowrocket、Clash Meta 均按此流程导入，具体步骤以客户端文档为准。",
+          "AI_FAQ_ANSWER_3": "旗舰版支持 5 台设备同时在线，包含 IPLC 专线游戏加速优化与全节点原生流媒体解锁，适合需要低延迟和多平台解锁的用户；团队版则把设备数提升到 20 台。",
+          "AI_FAQ_ANSWER_4": "可以。基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，年付折算下来比按月购买更划算，长期使用建议直接选年付。",
+          "AI_FAQ_ANSWER_5": "按设备选择客户端：Windows 与 macOS 适合 Clash Verge、v2rayN；iOS 用 Shadowrocket；Android 用 Clash Meta；路由器可刷 OpenWrt 插件实现全屋覆盖，同一订阅链接可在多个客户端复用。",
+          "AI_FAQ_QUESTION_1": "怎么判断自己该选哪档套餐？",
+          "AI_FAQ_QUESTION_2": "订阅链接怎么导入客户端？",
+          "AI_FAQ_QUESTION_3": "旗舰版比基础版多了哪些权益？",
+          "AI_FAQ_QUESTION_4": "年付和月付价格差多少？",
+          "AI_FAQ_QUESTION_5": "不同设备分别用什么客户端？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--cordcloud-yi5p512l.com",
+    "host": "xn--cordcloud-yi5p512l.com"
+  },
+  "file_hashes": {
+    "index.html": "0cbac215c69ed42e16d764a0205233c743260d75fe031a11c3c43351d6bfc41f",
+    "sitemap.xml": "82bd46775d4800adc655229b10068e38094017bffa9bfc8a5db3658e3cbbf3cd",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "20c849e9c412cc50c206de0d3f1a0cb7d862d8296db5e7b101998939a1c2e661",
+    "robots.txt": "624e71b7e4cd05abc6ea6f35b8cd5ddb0f75e0291d02585d7634f5b055c902b0",
+    "95dcacf1d0aeb3509243af5c44ade823.txt": "c156f84e9e84a6193b4069e173e4133a481a078aafd1059a103880410a6b27c6"
+  },
+  "revision": "81ca7b461387e6a7a305db50fa527777f323f13e493e6b666452ef3554db6b55"
+}
